@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 300px) {
   div {
     text-align: justify;
   }

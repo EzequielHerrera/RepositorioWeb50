@@ -10,7 +10,7 @@ $color2:rgb(18, 20, 18);
 
 div {
     @extend .table;
-    @media screen and (max-width: 720px)  {
+    @media screen and (max-width: 300px)  {
         text-align: justify;
     }
 }
